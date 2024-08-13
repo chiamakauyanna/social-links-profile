@@ -75,10 +75,10 @@ a{
   background-color: var(--Grey-700);
   margin-bottom: 1em;
   border-radius: 0.5em;
-  transition:  ease-in-out
+  transition:  1s ease-in-out
 }
 
-a:active{
+a:active, a:hover{
   background-color: var(--Green);
   color: var(--Grey-900);
 }
