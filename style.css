@@ -75,7 +75,8 @@ a{
   background-color: var(--Grey-700);
   margin-bottom: 1em;
   border-radius: 0.5em;
-  transition:  1s ease-in-out
+  transition:  1s ease-in-out;
+  cursor: pointer;
 }
 
 a:active, a:hover{
